@@ -1,0 +1,46 @@
+ul {
+  list-style-type: none;
+}
+
+
+.custom-menu {
+  overflow-y: scroll;
+}
+
+nb-action {
+  height: auto;
+  display: flex;
+  align-content: center;
+}
+
+nb-user {
+  cursor: pointer;
+}
+
+::ng-deep nb-search button {
+  padding: 0 !important;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  width: auto;
+}
+
+.sidebar-toggle {
+  text-decoration: none;
+  margin-right: 10px !important;
+}
+
+nb-icon {
+  font-size: 1.75rem;
+}
+
+.logo {
+  padding: 0 1.25rem;
+  font-size: 1.75rem;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+
