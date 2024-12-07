@@ -16,7 +16,7 @@ const routes: Routes = [
     title: 'Вход'
   },
   {
-    path: 'modes',
+    path: 'all-countries',
     component: ToolbarComponent,
     children: [
       {
