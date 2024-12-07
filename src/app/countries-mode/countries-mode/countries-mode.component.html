@@ -4,8 +4,13 @@
     <!-- Input Section -->
     <div class="header">
       <nb-form-field>
-        <input nbInput placeholder="Въведи държава"
-               [(ngModel)]="currentInput" (keyup.enter)="addCountry()" />
+        <input
+          nbInput
+          [ngClass]="{ 'green-border': showGreenBorder }"
+          placeholder="Въведи държава"
+          [(ngModel)]="currentInput"
+          (keyup.enter)="addCountry()"
+        />
       </nb-form-field>
       <button nbButton status="primary" (click)="addCountry()">Добави</button>
     </div>

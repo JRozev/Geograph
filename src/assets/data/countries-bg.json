@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "1",
+    "country": "Афганистан",
+    "capital": "Кабул",
+    "continent": "Азия"
+  },
+  {
+    "id": "2",
+    "country": "Албания",
+    "capital": "Тирана",
+    "continent": "Европа"
+  },
+  {
+    "id": "3",
+    "country": "Алжир",
+    "capital": "Алжир",
+    "continent": "Африка"
+  },
+  {
+    "id": "4",
+    "country": "Андора",
+    "capital": "Андора ла Веля",
+    "continent": "Европа"
+  },
+  {
+    "id": "5",
+    "country": "Ангола",
+    "capital": "Луанда",
+    "continent": "Африка"
+  },
+  {
+    "id": "6",
+    "country": "Антигуа и Барбуда",
+    "capital": "Свети Йоан",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "7",
+    "country": "Аржентина",
+    "capital": "Буенос Айрес",
+    "continent": "Южна Америка"
+  },
+  {
+    "id": "8",
+    "country": "Армения",
+    "capital": "Ереван",
+    "continent": "Азия"
+  },
+  {
+    "id": "9",
+    "country": "Австралия",
+    "capital": "Канбера",
+    "continent": "Австралия"
+  },
+  {
+    "id": "10",
+    "country": "Австрия",
+    "capital": "Виена",
+    "continent": "Европа"
+  },
+  {
+    "id": "11",
+    "country": "Азербайджан",
+    "capital": "Баку",
+    "continent": "Азия"
+  },
+  {
+    "id": "12",
+    "country": "Бахамите",
+    "capital": "Насау",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "13",
+    "country": "Бахрейн",
+    "capital": "Манама",
+    "continent": "Азия"
+  },
+  {
+    "id": "14",
+    "country": "Бангладеш",
+    "capital": "Дака",
+    "continent": "Азия"
+  },
+  {
+    "id": "15",
+    "country": "Барбадос",
+    "capital": "Бриджтаун",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "16",
+    "country": "Беларус",
+    "capital": "Минск",
+    "continent": "Европа"
+  },
+  {
+    "id": "17",
+    "country": "Белгия",
+    "capital": "Брюксел",
+    "continent": "Европа"
+  },
+  {
+    "id": "18",
+    "country": "Белиз",
+    "capital": "Белмопан",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "19",
+    "country": "Бенин",
+    "capital": "Порто-Ново",
+    "continent": "Африка"
+  },
+  {
+    "id": "20",
+    "country": "Бутан",
+    "capital": "Тхимпху",
+    "continent": "Азия"
+  },
+  {
+    "id": "21",
+    "country": "Боливия",
+    "capital": "Ла Пас",
+    "continent": "Южна Америка"
+  },
+  {
+    "id": "22",
+    "country": "Босна и Херцеговина",
+    "capital": "Сараево",
+    "continent": "Европа"
+  },
+  {
+    "id": "23",
+    "country": "Ботсвана",
+    "capital": "Габороне",
+    "continent": "Африка"
+  },
+  {
+    "id": "24",
+    "country": "Бразилия",
+    "capital": "Brasnlia",
+    "continent": "Южна Америка"
+  },
+  {
+    "id": "25",
+    "country": "Бруней",
+    "capital": "Бандар Сери Бегаван",
+    "continent": "Азия"
+  },
+  {
+    "id": "26",
+    "country": "България",
+    "capital": "София",
+    "continent": "Европа"
+  },
+  {
+    "id": "27",
+    "country": "Буркина Фасо",
+    "capital": "Уагадугу",
+    "continent": "Африка"
+  },
+  {
+    "id": "28",
+    "country": "Бурунди",
+    "capital": "Гитега",
+    "continent": "Африка"
+  },
+  {
+    "id": "29",
+    "country": "Кабо Верде",
+    "capital": "Прая",
+    "continent": "Африка"
+  },
+  {
+    "id": "30",
+    "country": "Камбоджа",
+    "capital": "Пном Пен",
+    "continent": "Азия"
+  },
+  {
+    "id": "31",
+    "country": "Камерун",
+    "capital": "Яундй",
+    "continent": "Африка"
+  },
+  {
+    "id": "32",
+    "country": "Канада",
+    "capital": "Отава",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "33",
+    "country": "Централноафриканска република",
+    "capital": "Банги",
+    "continent": "Африка"
+  },
+  {
+    "id": "34",
+    "country": "Чад",
+    "capital": "Нджамена",
+    "continent": "Африка"
+  },
+  {
+    "id": "35",
+    "country": "Чили",
+    "capital": "Сантяго",
+    "continent": "Южна Америка"
+  },
+  {
+    "id": "36",
+    "country": "Китай",
+    "capital": "Пекин",
+    "continent": "Азия"
+  },
+  {
+    "id": "37",
+    "country": "Колумбия",
+    "capital": "Боготб",
+    "continent": "Южна Америка"
+  },
+  {
+    "id": "38",
+    "country": "Коморски острови",
+    "capital": "Мороний",
+    "continent": "Африка"
+  },
+  {
+    "id": "39",
+    "country": "Конго",
+    "capital": "Бразавил",
+    "continent": "Африка"
+  },
+  {
+    "id": "40",
+    "country": "Коста Рика",
+    "capital": "Сан Хосе",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "41",
+    "country": "Кот д'Ивоар",
+    "capital": "Ямусукро",
+    "continent": "Африка"
+  },
+  {
+    "id": "42",
+    "country": "Хърватия",
+    "capital": "Загреб",
+    "continent": "Европа"
+  },
+  {
+    "id": "43",
+    "country": "Куба",
+    "capital": "Хавана",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "44",
+    "country": "Кипър",
+    "capital": "Никозия",
+    "continent": "Азия"
+  },
+  {
+    "id": "45",
+    "country": "Чехия",
+    "capital": "Прага",
+    "continent": "Европа"
+  },
+  {
+    "id": "46",
+    "country": "Дания",
+    "capital": "Копенхаген",
+    "continent": "Европа"
+  },
+  {
+    "id": "47",
+    "country": "Джибути",
+    "capital": "Джибути",
+    "continent": "Африка"
+  },
+  {
+    "id": "48",
+    "country": "Доминика",
+    "capital": "Розо",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "49",
+    "country": "Доминиканска република",
+    "capital": "Санто Доминго",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "50",
+    "country": "ДР Конго",
+    "capital": "Киншаса",
+    "continent": "Африка"
+  },
+  {
+    "id": "51",
+    "country": "Еквадор",
+    "capital": "Кито",
+    "continent": "Южна Америка"
+  },
+  {
+    "id": "52",
+    "country": "Египет",
+    "capital": "Кайро",
+    "continent": "Африка"
+  },
+  {
+    "id": "53",
+    "country": "Ел Салвадор",
+    "capital": "Сан Салвадор",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "54",
+    "country": "Екваториална Гвинея",
+    "capital": "Малабо",
+    "continent": "Африка"
+  },
+  {
+    "id": "55",
+    "country": "Еритрея",
+    "capital": "Асмара",
+    "continent": "Африка"
+  },
+  {
+    "id": "56",
+    "country": "Естония",
+    "capital": "Талин",
+    "continent": "Европа"
+  },
+  {
+    "id": "57",
+    "country": "Есватини",
+    "capital": "Мбабане",
+    "continent": "Африка"
+  },
+  {
+    "id": "58",
+    "country": "Етиопия",
+    "capital": "Адис Абеба",
+    "continent": "Африка"
+  },
+  {
+    "id": "59",
+    "country": "Фиджи",
+    "capital": "Сува",
+    "continent": "Австралия"
+  },
+  {
+    "id": "60",
+    "country": "Финландия",
+    "capital": "Хелзинки",
+    "continent": "Европа"
+  },
+  {
+    "id": "61",
+    "country": "Франция",
+    "capital": "Париж",
+    "continent": "Европа"
+  },
+  {
+    "id": "62",
+    "country": "Габон",
+    "capital": "Либревил",
+    "continent": "Африка"
+  },
+  {
+    "id": "63",
+    "country": "Гамбия",
+    "capital": "Банджул",
+    "continent": "Африка"
+  },
+  {
+    "id": "64",
+    "country": "Грузия",
+    "capital": "Тбилиси",
+    "continent": "Азия"
+  },
+  {
+    "id": "65",
+    "country": "Германия",
+    "capital": "Берлин",
+    "continent": "Европа"
+  },
+  {
+    "id": "66",
+    "country": "Гана",
+    "capital": "Акра",
+    "continent": "Африка"
+  },
+  {
+    "id": "67",
+    "country": "Гърция",
+    "capital": "Атина",
+    "continent": "Европа"
+  },
+  {
+    "id": "68",
+    "country": "Гренада",
+    "capital": "Свети Георги",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "69",
+    "country": "Гватемала",
+    "capital": "Гватемала Сити",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "70",
+    "country": "Гвинея",
+    "capital": "Конакри",
+    "continent": "Африка"
+  },
+  {
+    "id": "71",
+    "country": "Гвинея-Бисау",
+    "capital": "Бисау",
+    "continent": "Африка"
+  },
+  {
+    "id": "72",
+    "country": "Гвиана",
+    "capital": "Джорджтаун",
+    "continent": "Южна Америка"
+  },
+  {
+    "id": "73",
+    "country": "Хаити",
+    "capital": "Порт-о-Пренс",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "74",
+    "country": "Светият престол",
+    "capital": "град Ватикана",
+    "continent": "Европа"
+  },
+  {
+    "id": "75",
+    "country": "Хондурас",
+    "capital": "Тегусигалпа",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "76",
+    "country": "Унгария",
+    "capital": "Будапеща",
+    "continent": "Европа"
+  },
+  {
+    "id": "77",
+    "country": "Исландия",
+    "capital": "Рейкявик",
+    "continent": "Европа"
+  },
+  {
+    "id": "78",
+    "country": "Индия",
+    "capital": "Ню Делхи",
+    "continent": "Азия"
+  },
+  {
+    "id": "79",
+    "country": "Индонезия",
+    "capital": "Джакарта",
+    "continent": "Азия"
+  },
+  {
+    "id": "80",
+    "country": "Иран",
+    "capital": "Техеран",
+    "continent": "Азия"
+  },
+  {
+    "id": "81",
+    "country": "Ирак",
+    "capital": "Багдад",
+    "continent": "Азия"
+  },
+  {
+    "id": "82",
+    "country": "Ирландия",
+    "capital": "Дъблин",
+    "continent": "Европа"
+  },
+  {
+    "id": "83",
+    "country": "Израел",
+    "capital": "Йерусалим",
+    "continent": "Азия"
+  },
+  {
+    "id": "84",
+    "country": "Италия",
+    "capital": "Рим",
+    "continent": "Европа"
+  },
+  {
+    "id": "85",
+    "country": "Ямайка",
+    "capital": "Кингстън",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "86",
+    "country": "Япония",
+    "capital": "Токио",
+    "continent": "Азия"
+  },
+  {
+    "id": "87",
+    "country": "Джордан",
+    "capital": "Аман",
+    "continent": "Азия"
+  },
+  {
+    "id": "88",
+    "country": "Казахстан",
+    "capital": "Нур-Султан",
+    "continent": "Азия"
+  },
+  {
+    "id": "89",
+    "country": "Кения",
+    "capital": "Найроби",
+    "continent": "Африка"
+  },
+  {
+    "id": "90",
+    "country": "Кирибати",
+    "capital": "Южна Тарава",
+    "continent": "Австралия"
+  },
+  {
+    "id": "91",
+    "country": "Кувейт",
+    "capital": "град Кувейт",
+    "continent": "Азия"
+  },
+  {
+    "id": "92",
+    "country": "Киргизстан",
+    "capital": "Бишкек",
+    "continent": "Азия"
+  },
+  {
+    "id": "93",
+    "country": "Лаос",
+    "capital": "Виентян",
+    "continent": "Азия"
+  },
+  {
+    "id": "94",
+    "country": "Латвия",
+    "capital": "Рига",
+    "continent": "Европа"
+  },
+  {
+    "id": "95",
+    "country": "Ливан",
+    "capital": "Бейрут",
+    "continent": "Азия"
+  },
+  {
+    "id": "96",
+    "country": "Лесото",
+    "capital": "Масеру",
+    "continent": "Африка"
+  },
+  {
+    "id": "97",
+    "country": "Либерия",
+    "capital": "Монровия",
+    "continent": "Африка"
+  },
+  {
+    "id": "98",
+    "country": "Либия",
+    "capital": "Триполи",
+    "continent": "Африка"
+  },
+  {
+    "id": "99",
+    "country": "Лихтенщайн",
+    "capital": "Вадуц",
+    "continent": "Европа"
+  },
+  {
+    "id": "100",
+    "country": "Литва",
+    "capital": "Вилнюс",
+    "continent": "Европа"
+  },
+  {
+    "id": "101",
+    "country": "Люксембург",
+    "capital": "Град Люксембург",
+    "continent": "Европа"
+  },
+  {
+    "id": "102",
+    "country": "Мадагаскар",
+    "capital": "Антананариво",
+    "continent": "Африка"
+  },
+  {
+    "id": "103",
+    "country": "Малави",
+    "capital": "Лилонгве",
+    "continent": "Африка"
+  },
+  {
+    "id": "104",
+    "country": "Малайзия",
+    "capital": "Куала Лумпур",
+    "continent": "Азия"
+  },
+  {
+    "id": "105",
+    "country": "Малдивите",
+    "capital": "мъжки",
+    "continent": "Азия"
+  },
+  {
+    "id": "106",
+    "country": "Мали",
+    "capital": "Бамако",
+    "continent": "Африка"
+  },
+  {
+    "id": "107",
+    "country": "Малта",
+    "capital": "Валета",
+    "continent": "Европа"
+  },
+  {
+    "id": "108",
+    "country": "Маршалови острови",
+    "capital": "Маджуро",
+    "continent": "Австралия"
+  },
+  {
+    "id": "109",
+    "country": "Мавритания",
+    "capital": "Нуакшот",
+    "continent": "Африка"
+  },
+  {
+    "id": "110",
+    "country": "Мавриций",
+    "capital": "Порт Луис",
+    "continent": "Африка"
+  },
+  {
+    "id": "111",
+    "country": "Мексико",
+    "capital": "Мексико сити",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "112",
+    "country": "Микронезия",
+    "capital": "Паликир",
+    "continent": "Австралия"
+  },
+  {
+    "id": "113",
+    "country": "Молдова",
+    "capital": "Кишинев",
+    "continent": "Европа"
+  },
+  {
+    "id": "114",
+    "country": "Монако",
+    "capital": "Монако",
+    "continent": "Европа"
+  },
+  {
+    "id": "115",
+    "country": "Монголия",
+    "capital": "Улан Батор",
+    "continent": "Азия"
+  },
+  {
+    "id": "116",
+    "country": "Черна гора",
+    "capital": "Подгорица",
+    "continent": "Европа"
+  },
+  {
+    "id": "117",
+    "country": "Мароко",
+    "capital": "Рабат",
+    "continent": "Африка"
+  },
+  {
+    "id": "118",
+    "country": "Мозамбик",
+    "capital": "Мапуто",
+    "continent": "Африка"
+  },
+  {
+    "id": "119",
+    "country": "Мианмар",
+    "capital": "Найпидо",
+    "continent": "Азия"
+  },
+  {
+    "id": "120",
+    "country": "Намибия",
+    "capital": "Уиндхук",
+    "continent": "Африка"
+  },
+  {
+    "id": "121",
+    "country": "Науру",
+    "capital": "Област Ярен",
+    "continent": "Австралия"
+  },
+  {
+    "id": "122",
+    "country": "Непал",
+    "capital": "Катманду",
+    "continent": "Азия"
+  },
+  {
+    "id": "123",
+    "country": "Холандия",
+    "capital": "Амстердам",
+    "continent": "Европа"
+  },
+  {
+    "id": "124",
+    "country": "Нова Зеландия",
+    "capital": "Уелингтън",
+    "continent": "Австралия"
+  },
+  {
+    "id": "125",
+    "country": "Никарагуа",
+    "capital": "Манагуа",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "126",
+    "country": "Нигер",
+    "capital": "Ниамей",
+    "continent": "Африка"
+  },
+  {
+    "id": "127",
+    "country": "Нигерия",
+    "capital": "Абуджа",
+    "continent": "Африка"
+  },
+  {
+    "id": "128",
+    "country": "Северна Корея",
+    "capital": "Пхенян",
+    "continent": "Азия"
+  },
+  {
+    "id": "129",
+    "country": "Северна Македония",
+    "capital": "Скопие",
+    "continent": "Европа"
+  },
+  {
+    "id": "130",
+    "country": "Норвегия",
+    "capital": "Осло",
+    "continent": "Европа"
+  },
+  {
+    "id": "131",
+    "country": "Оман",
+    "capital": "Мускат",
+    "continent": "Азия"
+  },
+  {
+    "id": "132",
+    "country": "Пакистан",
+    "capital": "Исламабад",
+    "continent": "Азия"
+  },
+  {
+    "id": "133",
+    "country": "Палау",
+    "capital": "Нгерулмуд",
+    "continent": "Австралия"
+  },
+  {
+    "id": "134",
+    "country": "Панама",
+    "capital": "град Панама",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "135",
+    "country": "Папуа Нова Гвинея",
+    "capital": "Порт Морсби",
+    "continent": "Австралия"
+  },
+  {
+    "id": "136",
+    "country": "Парагвай",
+    "capital": "Асунсьон",
+    "continent": "Южна Америка"
+  },
+  {
+    "id": "137",
+    "country": "Перу",
+    "capital": "Лима",
+    "continent": "Южна Америка"
+  },
+  {
+    "id": "138",
+    "country": "Филипините",
+    "capital": "Манила",
+    "continent": "Азия"
+  },
+  {
+    "id": "139",
+    "country": "Полша",
+    "capital": "Варшава",
+    "continent": "Европа"
+  },
+  {
+    "id": "140",
+    "country": "Португалия",
+    "capital": "Лисабон",
+    "continent": "Европа"
+  },
+  {
+    "id": "141",
+    "country": "Катар",
+    "capital": "Доха",
+    "continent": "Азия"
+  },
+  {
+    "id": "142",
+    "country": "Румъния",
+    "capital": "Букурещ",
+    "continent": "Европа"
+  },
+  {
+    "id": "143",
+    "country": "Русия",
+    "capital": "Москва",
+    "continent": "Европа"
+  },
+  {
+    "id": "144",
+    "country": "Руанда",
+    "capital": "Кигали",
+    "continent": "Африка"
+  },
+  {
+    "id": "145",
+    "country": "Сейнт Китс и Невис",
+    "capital": "Бастер",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "146",
+    "country": "Сейнт Лусия",
+    "capital": "Кастри",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "147",
+    "country": "Самоа",
+    "capital": "Апия",
+    "continent": "Австралия"
+  },
+  {
+    "id": "148",
+    "country": "Сан Марино",
+    "capital": "Сан Марино",
+    "continent": "Европа"
+  },
+  {
+    "id": "149",
+    "country": "Сао Томе и Принсипи",
+    "capital": "Sгo Tomй",
+    "continent": "Африка"
+  },
+  {
+    "id": "150",
+    "country": "Саудитска Арабия",
+    "capital": "Рияд",
+    "continent": "Азия"
+  },
+  {
+    "id": "151",
+    "country": "Сенегал",
+    "capital": "Дакар",
+    "continent": "Африка"
+  },
+  {
+    "id": "152",
+    "country": "Сърбия",
+    "capital": "Белград",
+    "continent": "Европа"
+  },
+  {
+    "id": "153",
+    "country": "Сейшели",
+    "capital": "Виктория",
+    "continent": "Африка"
+  },
+  {
+    "id": "154",
+    "country": "Сиера Леоне",
+    "capital": "Фрийтаун",
+    "continent": "Африка"
+  },
+  {
+    "id": "155",
+    "country": "Сингапур",
+    "capital": "Сингапур",
+    "continent": "Азия"
+  },
+  {
+    "id": "156",
+    "country": "Словакия",
+    "capital": "Братислава",
+    "continent": "Европа"
+  },
+  {
+    "id": "157",
+    "country": "Словения",
+    "capital": "Любляна",
+    "continent": "Европа"
+  },
+  {
+    "id": "158",
+    "country": "Соломоновите острови",
+    "capital": "Хониара",
+    "continent": "Австралия"
+  },
+  {
+    "id": "159",
+    "country": "Сомалия",
+    "capital": "Могадишу",
+    "continent": "Африка"
+  },
+  {
+    "id": "160",
+    "country": "Южна Африка",
+    "capital": "Кейптаун",
+    "continent": "Африка"
+  },
+  {
+    "id": "161",
+    "country": "Южна Корея",
+    "capital": "Сеул",
+    "continent": "Азия"
+  },
+  {
+    "id": "162",
+    "country": "Южен Судан",
+    "capital": "Джуба",
+    "continent": "Африка"
+  },
+  {
+    "id": "163",
+    "country": "Испания",
+    "capital": "Мадрид",
+    "continent": "Европа"
+  },
+  {
+    "id": "164",
+    "country": "Шри Ланка",
+    "capital": "Шри Джаяварденепура Коте",
+    "continent": "Азия"
+  },
+  {
+    "id": "165",
+    "country": "Сейнт Винсент и Гренадини",
+    "capital": "Кингстаун",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "166",
+    "country": "Държава Палестина",
+    "capital": "Рамала",
+    "continent": "Азия"
+  },
+  {
+    "id": "167",
+    "country": "Судан",
+    "capital": "Хартум",
+    "continent": "Африка"
+  },
+  {
+    "id": "168",
+    "country": "Суринам",
+    "capital": "Парамарибо",
+    "continent": "Южна Америка"
+  },
+  {
+    "id": "169",
+    "country": "Швеция",
+    "capital": "Стокхолм",
+    "continent": "Европа"
+  },
+  {
+    "id": "170",
+    "country": "Швейцария",
+    "capital": "Берн",
+    "continent": "Европа"
+  },
+  {
+    "id": "171",
+    "country": "Сирия",
+    "capital": "Дамаск",
+    "continent": "Азия"
+  },
+  {
+    "id": "172",
+    "country": "Таджикистан",
+    "capital": "Душанбе",
+    "continent": "Азия"
+  },
+  {
+    "id": "173",
+    "country": "Танзания",
+    "capital": "Додома",
+    "continent": "Африка"
+  },
+  {
+    "id": "174",
+    "country": "Тайланд",
+    "capital": "Банкок",
+    "continent": "Азия"
+  },
+  {
+    "id": "175",
+    "country": "Източен Тимор",
+    "capital": "Дили",
+    "continent": "Азия"
+  },
+  {
+    "id": "176",
+    "country": "Того",
+    "capital": "Ломй",
+    "continent": "Африка"
+  },
+  {
+    "id": "177",
+    "country": "Тонга",
+    "capital": "Нукуалофа",
+    "continent": "Австралия"
+  },
+  {
+    "id": "178",
+    "country": "Тринидад и Тобаго",
+    "capital": "Порт ъф Спейн",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "179",
+    "country": "Тунис",
+    "capital": "Тунис",
+    "continent": "Африка"
+  },
+  {
+    "id": "180",
+    "country": "Турция",
+    "capital": "Анкара",
+    "continent": "Азия"
+  },
+  {
+    "id": "181",
+    "country": "Туркменистан",
+    "capital": "Ашхабад",
+    "continent": "Азия"
+  },
+  {
+    "id": "182",
+    "country": "Тувалу",
+    "capital": "Фунафути",
+    "continent": "Австралия"
+  },
+  {
+    "id": "183",
+    "country": "Уганда",
+    "capital": "Кампала",
+    "continent": "Африка"
+  },
+  {
+    "id": "184",
+    "country": "Украйна",
+    "capital": "Киев",
+    "continent": "Европа"
+  },
+  {
+    "id": "185",
+    "country": "Обединени арабски емирства",
+    "capital": "Абу Даби",
+    "continent": "Азия"
+  },
+  {
+    "id": "186",
+    "country": "Великобритания",
+    "capital": "Лондон",
+    "continent": "Европа"
+  },
+  {
+    "id": "187",
+    "country": "САЩ",
+    "capital": "Вашингтон",
+    "continent": "Северна Америка"
+  },
+  {
+    "id": "188",
+    "country": "Уругвай",
+    "capital": "Монтевидео",
+    "continent": "Южна Америка"
+  },
+  {
+    "id": "189",
+    "country": "Узбекистан",
+    "capital": "Ташкент",
+    "continent": "Азия"
+  },
+  {
+    "id": "190",
+    "country": "Вануату",
+    "capital": "Порт Вила",
+    "continent": "Австралия"
+  },
+  {
+    "id": "191",
+    "country": "Венецуела",
+    "capital": "Каракас",
+    "continent": "Южна Америка"
+  },
+  {
+    "id": "192",
+    "country": "Виетнам",
+    "capital": "Ханой",
+    "continent": "Азия"
+  },
+  {
+    "id": "193",
+    "country": "Йемен",
+    "capital": "Сана",
+    "continent": "Азия"
+  },
+  {
+    "id": "194",
+    "country": "Замбия",
+    "capital": "Лусака",
+    "continent": "Африка"
+  },
+  {
+    "id": "195",
+    "country": "Зимбабве",
+    "capital": "Хараре",
+    "continent": "Африка"
+  }
+]

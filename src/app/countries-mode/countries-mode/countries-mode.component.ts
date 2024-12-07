@@ -19,15 +19,16 @@ export class CountriesModeComponent implements OnInit {
   countryAlreadyAdded: string | null = null; // Holds the name of a duplicate country
   totalCountries: number = 195; // Total number of countries
   enteredCountriesCount: number = 0; // Counter for entered countries
+  showGreenBorder: boolean = false; // Flag to show green border temporarily
 
   constructor(private http: HttpClient, private dataStorageService: DataStorageService) {}
 
   ngOnInit(): void {
     // Load the countries data from the JSON file
-    this.dataStorageService.getCountries().subscribe((data) => {
+    this.dataStorageService.getCountriesBg().subscribe((data) => {
       this.countries = data;
 
-      // Initialize table with all 195 rows based on countries.json
+      // Initialize table with all 195 rows based on countries-en.json
       const initialData: Country[] = Array.from({ length: this.totalCountries }, (_, i) => ({
         id: i + 1,
         country: '',
@@ -71,6 +72,12 @@ export class CountriesModeComponent implements OnInit {
         this.enteredCountriesCount++; // Increment the entered countries counter
         this.countryAlreadyAdded = null; // Reset the duplicate country message
         this.countryNotFound = false; // Reset the not-found flag
+
+        // Show green border temporarily
+        this.showGreenBorder = true;
+        setTimeout(() => {
+          this.showGreenBorder = false; // Remove the green border after 3 seconds
+        }, 3000);
       }
     } else {
       this.countryNotFound = true; // Set the not-found flag

@@ -10,8 +10,12 @@ export class DataStorageService {
   constructor(private http: HttpClient) {
   }
 
-  getCountries(): Observable<Country[]> {
-    return this.http.get<Country[]>('assets/data/countries.json');
+  getCountriesEn(): Observable<Country[]> {
+    return this.http.get<Country[]>('assets/data/countries-en.json');
+  }
+
+  getCountriesBg(): Observable<Country[]> {
+    return this.http.get<Country[]>('assets/data/countries-bg.json');
   }
 
 }
