@@ -1,1 +1,331 @@
-/* You can add global styles to this file, and also import other style files */
+@import 'bootstrap/dist/css/bootstrap-grid.min.css';
+@import '@angular/material/prebuilt-themes/indigo-pink.css';
+
+
+* {
+  font-size: 14px;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+::ng-deep .success {
+  text-align: center;
+}
+
+
+html, body {
+  height: 100%;
+  overflow: auto !important;
+}
+
+
+.nb-theme-default nb-sidebar.expanded {
+  width: 16rem;
+  /* height: 100vh !important; */
+  overflow-y: auto !important;
+}
+
+
+.nb-theme-dark nb-sidebar.expanded {
+  width: 16rem;
+  /* height: 100vh !important; */
+  overflow-y: auto !important;
+}
+
+
+.nb-theme-cosmic nb-sidebar.expanded {
+  width: 16rem;
+  /* height: 100vh !important; */
+  overflow-y: auto !important;
+}
+
+
+.nb-theme-corporate nb-sidebar.expanded {
+  width: 16rem;
+  /* height: 100vh !important; */
+  overflow-y: auto !important;
+}
+
+/* ===== Scrollbar CSS ===== */
+/* Firefox */
+* {
+  scrollbar-width: auto;
+  scrollbar-color: #dbd9e3 #ffffff;
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 10px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #ffffff;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #dbd9e3;
+  border-radius: 10px;
+  border: 3px solid #ffffff;
+}
+
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.tabset {
+  align-items: center !important;
+}
+
+ul.tabset {
+  overflow-x: auto !important;
+  overflow-y: hidden !important;
+}
+
+.main-container-fixed {
+  position: initial !important;
+}
+
+.nb-theme-default nb-menu .menu-item>.menu-items>.menu-item a {
+  font-weight: normal;
+}
+
+.menu-item a .menu-title {
+  flex: 1 0 auto;
+  display: inline-block;
+  max-width: 150px;
+  white-space: break-spaces;
+}
+
+nb-layout-header nav {
+  justify-content: space-between !important;
+}
+
+.main-card-make-red-pink {
+  background: rgb(195,34,67);
+  background: linear-gradient(180deg, rgba(195,34,67,0.4990371148459384) 0%, rgba(175,253,45,0.1) 100%);
+}
+
+.main-card-make-green {
+  background: rgb(34,195,155);
+  background: linear-gradient(180deg, rgba(34,195,155,0.4990371148459384) 0%, rgba(175,253,45,0.1) 100%);
+}
+
+.main-card-make-blue {
+  background: rgb(34,137,195);
+  background: linear-gradient(180deg, rgba(34,137,195,0.4990371148459384) 0%, rgba(175,253,45,0.1) 100%);
+}
+
+.main-card-make-orange {
+  background: rgb(195,82,34);
+  background: linear-gradient(180deg, rgba(195,82,34,0.4990371148459384) 0%, rgba(175,253,45,0.1) 100%);
+}
+
+.main-card-make-gray {
+  background: rgb(125,125,126);
+  background: linear-gradient(180deg, rgba(125,125,126,0.4990371148459384) 0%, rgba(175,253,45,0.1) 100%);
+}
+
+nb-layout-header nav {
+  display: flex;
+  justify-content: space-between !important;
+  width: 100%;
+}
+
+.nb-theme-cosmic .mat-mdc-paginator-page-size-label, .mat-mdc-paginator-page-size, .mat-mdc-paginator-range-label {
+  color: white !important;
+}
+
+.nb-theme-dark .mat-mdc-paginator-page-size-label, .mat-mdc-paginator-page-size, .mat-mdc-paginator-range-label {
+  color: white !important;
+}
+
+.nb-theme-default .mat-mdc-paginator-page-size-label, .mat-mdc-paginator-page-size, .mat-mdc-paginator-range-label {
+  color: black !important;
+}
+
+.nb-theme-corporate .mat-mdc-paginator-page-size-label, .mat-mdc-paginator-page-size, .mat-mdc-paginator-range-label {
+  color: black !important;
+}
+
+.nb-theme-cosmic .make-blue {
+  color: dodgerblue !important;
+}
+
+.nb-theme-cosmic .make-green {
+  color: greenyellow !important;
+}
+
+.nb-theme-cosmic .make-red  {
+  color: orangered !important;
+}
+
+.nb-theme-dark .make-blue {
+  color: dodgerblue !important;
+}
+
+.nb-theme-dark .make-green {
+  color: greenyellow !important;
+}
+
+.nb-theme-dark  .make-red  {
+  color: orangered !important;
+}
+
+.nb-theme-cosmic th {
+  background: #a16eff !important;
+}
+
+.nb-theme-dark th {
+  background: #36f !important;
+  color: white;
+}
+
+
+.nb-theme-default th, .nb-theme-corporate th {
+  background: #36f !important;
+  color: white;
+
+}
+
+.nb-theme-cosmic .add{
+  background: #a16eff !important;
+}
+
+.nb-theme-cosmic td, .nb-theme-cosmic th {
+  color: white;
+}
+
+
+.nb-theme-dark th, .nb-theme-dark td {
+  color: white;
+}
+
+.mat-sort-header-content {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  font-size: 12px !important;
+}
+
+.nb-theme-dark .mat-paginator-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0 8px;
+  flex-wrap: wrap-reverse;
+  width: 100%;
+  color: white !important;
+}
+
+.nb-theme-cosmic .mat-paginator-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0 8px;
+  flex-wrap: wrap-reverse;
+  width: 100%;
+  color: white !important;
+}
+
+
+th {
+  text-align: center !important;
+  padding: 0 !important;
+  font-size: 14px;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  border-bottom-style: none !important;
+
+}
+
+td {
+  text-align: center !important;
+  padding-left: 10px !important;
+  padding-right: 10px !important;
+}
+
+table {
+  background: transparent !important;
+  width:100%;
+}
+
+.scrollable {
+  overflow-x: visible !important;
+  overflow-y: visible !important;
+}
+
+.nb-form-field-addon {
+  display: flex;
+  white-space: nowrap;
+}
+
+[dir=ltr] .nb-theme-default .nb-form-field-control-with-prefix [nbInput].size-medium {
+  padding-left: 3.5rem !important;
+}
+
+[dir=ltr] .nb-theme-dark .nb-form-field-control-with-prefix [nbInput].size-medium {
+  padding-left: 3.5rem !important;
+}
+
+[dir=ltr] .nb-theme-cosmic .nb-form-field-control-with-prefix [nbInput].size-medium {
+  padding-left: 3.5rem !important;
+}
+
+[dir=ltr] .nb-theme-corporate .nb-form-field-control-with-prefix [nbInput].size-medium {
+  padding-left: 3.5rem !important;
+}
+
+.window-limited-height {
+  overflow-y: auto;
+  max-height: 95%;
+  width: 40%;
+}
+
+
+nb-window:not(.full-screen) {
+  margin: 0 2rem;
+  width: 500px;
+  overflow: auto;
+}
+
+
+nb-window.minimized {
+  overflow: hidden !important;
+}
+
+.nb-theme-default nb-spinner.size-giant {
+  font-size: 4rem !important;
+}
+
+.nb-theme-default nb-spinner.status-primary {
+  background-color: rgba(200, 199,199, .8) !important;
+}
+
+.nb-theme-default nb-spinner .message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loader ::ng-deep .overlay{
+  position: fixed !important;
+}
+
+.menu-item a .menu-title {
+  flex: none !important;
+}
+
+.error {
+  font-size: 12px;
+  color: red;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+
+html.cdk-global-scrollblock {
+  top: 0 !important;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+

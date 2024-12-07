@@ -1,0 +1,34 @@
+<nb-layout>
+  <nb-layout-column>
+    <nb-alert status="success" *ngIf="this.router.url === '/treatment-abroad/login'">
+      Успешно влязохте в системата за лечение по Наредба №2/27.03.2019г.
+    </nb-alert>
+    <nb-card>
+      <nb-card-body>
+        <h1>
+          ВХОД
+        </h1>
+        <h5>
+         Игра Geograph
+        </h5>
+        <nb-select placeholder="ИЗБЕРЕТЕ ТИП ИГРА" fullWidth>
+          <nb-option value="1">
+            Всички държави
+          </nb-option>
+          <nb-option value="2">
+            Всички столици
+          </nb-option>
+          <nb-option value="3">
+            Американски щати
+          </nb-option>
+          <nb-option value="4">
+            Всички държави по континент
+          </nb-option>
+        </nb-select>
+        <button nbButton
+                routerLink="/treatment-abroad/menu">Вход
+        </button>
+      </nb-card-body>
+    </nb-card>
+  </nb-layout-column>
+</nb-layout>
