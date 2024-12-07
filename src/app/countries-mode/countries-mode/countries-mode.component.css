@@ -12,3 +12,10 @@
   justify-content: center;
   flex-direction: row;
 }
+
+.enteredCountries {
+  margin-top: 5px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
