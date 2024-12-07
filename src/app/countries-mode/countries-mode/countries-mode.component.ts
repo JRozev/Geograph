@@ -1,8 +1,7 @@
-import { Component, OnInit } from '@angular/core';
-import { MatTableDataSource } from "@angular/material/table";
-import { HttpClient } from "@angular/common/http";
-import { Country } from "../../models/countries.model";
-import { DataStorageService } from "../../service/data-storage.service";
+import {Component, OnInit} from '@angular/core';
+import {MatTableDataSource} from "@angular/material/table";
+import {Country} from "../../models/countries.model";
+import {DataStorageService} from "../../service/data-storage.service";
 
 @Component({
   selector: 'app-countries-mode',
@@ -17,11 +16,11 @@ export class CountriesModeComponent implements OnInit {
   countries: Country[] = []; // List of countries from JSON
   countryNotFound: boolean = false;
   countryAlreadyAdded: string | null = null; // Holds the name of a duplicate country
-  totalCountries: number = 195; // Total number of countries
+  totalCountries: number = 197; // Total number of countries
   enteredCountriesCount: number = 0; // Counter for entered countries
   showGreenBorder: boolean = false; // Flag to show green border temporarily
 
-  constructor(private http: HttpClient, private dataStorageService: DataStorageService) {}
+  constructor(private dataStorageService: DataStorageService) {}
 
   ngOnInit(): void {
     // Load the countries data from the JSON file
@@ -40,10 +39,14 @@ export class CountriesModeComponent implements OnInit {
   }
 
   addCountry(): void {
-    const trimmedInput = this.currentInput.trim();
+    const trimmedInput = this.currentInput.trim().toLowerCase();
     if (!trimmedInput) return;
 
-    const matchedCountry = this.countries.find(country => country.country.toLowerCase() === trimmedInput.toLowerCase());
+    // Find a match in the country name or its alternatives
+    const matchedCountry = this.countries.find(country => {
+      const countryNames = [country.country.toLowerCase(), ...(country.alternatives?.map(a => a.toLowerCase()) || [])];
+      return countryNames.includes(trimmedInput);
+    });
 
     if (matchedCountry) {
       const tableData = this.dataSource.data;
@@ -72,12 +75,6 @@ export class CountriesModeComponent implements OnInit {
         this.enteredCountriesCount++; // Increment the entered countries counter
         this.countryAlreadyAdded = null; // Reset the duplicate country message
         this.countryNotFound = false; // Reset the not-found flag
-
-        // Show green border temporarily
-        this.showGreenBorder = true;
-        setTimeout(() => {
-          this.showGreenBorder = false; // Remove the green border after 3 seconds
-        }, 3000);
       }
     } else {
       this.countryNotFound = true; // Set the not-found flag

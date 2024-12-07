@@ -4,4 +4,5 @@ export interface Country {
   capital: string;
   continent: string;
   number?: number; // Add the 'number' property as optional
+  alternatives?: string[];
 }

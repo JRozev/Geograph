@@ -6,7 +6,6 @@ import {MatTableModule} from "@angular/material/table";
 import {FormsModule} from "@angular/forms";
 
 
-
 @NgModule({
   declarations: [
     CountriesModeComponent
