@@ -1,17 +1,19 @@
 <nb-card>
   <nb-card-header>Напиши всички държави</nb-card-header>
   <nb-card-body>
-    <nb-form-field>
-      <input nbInput placeholder="Въведи държава"
-             [(ngModel)]="currentInput" (keyup.enter)="addCountry()"/>
-    </nb-form-field>
-    <button nbButton status="primary" (click)="addCountry()">Добави</button>
-
+    <div class="header">
+      <nb-form-field>
+        <input nbInput placeholder="Въведи държава"
+               [(ngModel)]="currentInput" (keyup.enter)="addCountry()"/>
+      </nb-form-field>
+      <button nbButton status="primary" (click)="addCountry()">Добави</button>
+    </div>
+    <span *ngIf="countryNotFound" class="not-found">Няма такава държава!</span>
     <nb-card-body>
       <table mat-table [dataSource]="dataSource">
-        <ng-container matColumnDef="number">
+        <ng-container matColumnDef="id">
           <th mat-header-cell *matHeaderCellDef>Номер по ред</th>
-          <td mat-cell *matCellDef="let element">{{ element.number }}</td>
+          <td mat-cell *matCellDef="let element">{{ element.id }}</td>
         </ng-container>
 
         <ng-container matColumnDef="country">
@@ -35,7 +37,7 @@
         <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
         <tr class="mat-row" *matNoDataRow>
           <td class="mat-cell" [attr.colspan]="displayedColumns.length">
-            Няма намерени фактури.
+            Няма въведени държави.
           </td>
         </tr>
       </table>

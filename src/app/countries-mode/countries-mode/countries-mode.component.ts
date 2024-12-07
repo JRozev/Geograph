@@ -12,8 +12,9 @@ export class CountriesModeComponent implements OnInit {
 
   currentInput: string = ''; // Input value
   dataSource: MatTableDataSource<Country> = new MatTableDataSource<Country>([]); // Table data source
-  displayedColumns: string[] = ['number', 'country', 'capital', 'continent']; // Table columns
+  displayedColumns: string[] = ['id', 'country', 'capital', 'continent']; // Table columns
   countries: Country[] = []; // List of countries from JSON
+  countryNotFound: boolean = false;
 
   constructor(private http: HttpClient) {}
 
@@ -38,9 +39,11 @@ export class CountriesModeComponent implements OnInit {
           number: tableData.length + 1 // Dynamically add 'number'
         }];
       }
+      this.countryNotFound = false; // Reset the not-found flag
+    } else {
+      this.countryNotFound = true; // Set the not-found flag
     }
 
     this.currentInput = ''; // Clear input field
   }
-
 }

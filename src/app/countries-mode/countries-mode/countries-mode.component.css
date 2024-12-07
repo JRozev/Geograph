@@ -1,0 +1,14 @@
+.not-found {
+  color: red;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 5px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
