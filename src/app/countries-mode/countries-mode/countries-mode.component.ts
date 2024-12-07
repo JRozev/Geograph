@@ -38,6 +38,53 @@ export class CountriesModeComponent implements OnInit {
     });
   }
 
+  // addCountry(): void {
+  //   const trimmedInput = this.currentInput.trim().toLowerCase();
+  //   if (!trimmedInput) return;
+  //
+  //   // Find a match in the country name or its alternatives
+  //   const matchedCountry = this.countries.find(country => {
+  //     const countryNames = [country.country.toLowerCase(), ...(country.alternatives?.map(a => a.toLowerCase()) || [])];
+  //     return countryNames.includes(trimmedInput);
+  //   });
+  //
+  //   if (matchedCountry) {
+  //     const tableData = this.dataSource.data;
+  //
+  //     // Check if the country is already added
+  //     const isAlreadyAdded = tableData.some(row => row.country.toLowerCase() === matchedCountry.country.toLowerCase());
+  //
+  //     if (isAlreadyAdded) {
+  //       this.countryAlreadyAdded = matchedCountry.country; // Set the duplicate country message
+  //       this.countryNotFound = false; // Reset the not-found flag
+  //     } else {
+  //       // Find the row by country id (0-based index)
+  //       const rowIndex = matchedCountry.id - 1;
+  //
+  //       // Update the corresponding row in the table
+  //       tableData[rowIndex] = {
+  //         id: matchedCountry.id,
+  //         country: matchedCountry.country,
+  //         capital: matchedCountry.capital,
+  //         continent: matchedCountry.continent
+  //       };
+  //
+  //       // Update the data source
+  //       this.dataSource.data = [...tableData];
+  //
+  //       this.enteredCountriesCount++; // Increment the entered countries counter
+  //       this.countryAlreadyAdded = null; // Reset the duplicate country message
+  //       this.countryNotFound = false; // Reset the not-found flag
+  //     }
+  //   } else {
+  //     this.countryNotFound = true; // Set the not-found flag
+  //     this.countryAlreadyAdded = null; // Reset the duplicate country message
+  //   }
+  //
+  //   this.currentInput = ''; // Clear input field
+  // }
+
+
   addCountry(): void {
     const trimmedInput = this.currentInput.trim().toLowerCase();
     if (!trimmedInput) return;
@@ -75,6 +122,10 @@ export class CountriesModeComponent implements OnInit {
         this.enteredCountriesCount++; // Increment the entered countries counter
         this.countryAlreadyAdded = null; // Reset the duplicate country message
         this.countryNotFound = false; // Reset the not-found flag
+
+        // Show green border temporarily
+        this.showGreenBorder = true;
+        setTimeout(() => (this.showGreenBorder = false), 3000);
       }
     } else {
       this.countryNotFound = true; // Set the not-found flag
@@ -83,4 +134,5 @@ export class CountriesModeComponent implements OnInit {
 
     this.currentInput = ''; // Clear input field
   }
+
 }
