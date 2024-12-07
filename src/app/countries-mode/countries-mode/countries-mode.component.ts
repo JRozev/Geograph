@@ -104,6 +104,7 @@ export class CountriesModeComponent implements OnInit {
       if (isAlreadyAdded) {
         this.countryAlreadyAdded = matchedCountry.country; // Set the duplicate country message
         this.countryNotFound = false; // Reset the not-found flag
+        setTimeout(() => (this.countryAlreadyAdded  = null), 3000);
       } else {
         // Find the row by country id (0-based index)
         const rowIndex = matchedCountry.id - 1;
