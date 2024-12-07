@@ -1,3 +1,55 @@
+<!--<nb-card>-->
+<!--  <nb-card-header>Напиши всички държави</nb-card-header>-->
+<!--  <nb-card-body>-->
+<!--    &lt;!&ndash; Input Section &ndash;&gt;-->
+<!--    <div class="header">-->
+<!--      <nb-form-field>-->
+<!--        <input nbInput placeholder="Въведи държава"-->
+<!--               [(ngModel)]="currentInput" (keyup.enter)="addCountry()" />-->
+<!--      </nb-form-field>-->
+<!--      <button nbButton status="primary" (click)="addCountry()">Добави</button>-->
+<!--    </div>-->
+
+<!--    &lt;!&ndash; Error Message &ndash;&gt;-->
+<!--    <span *ngIf="countryNotFound" class="not-found">Няма такава държава!</span>-->
+
+<!--    &lt;!&ndash; Entered Countries Counter &ndash;&gt;-->
+<!--    <span class="enteredCountries">ВЪВЕДЕНИ ДЪРЖАВИ: {{ enteredCountriesCount }}/{{ totalCountries }}</span>-->
+
+<!--    &lt;!&ndash; Table &ndash;&gt;-->
+<!--    <nb-card-body>-->
+<!--      <table mat-table [dataSource]="dataSource">-->
+
+<!--        &lt;!&ndash; Row Number Column &ndash;&gt;-->
+<!--        <ng-container matColumnDef="id">-->
+<!--          <th mat-header-cell *matHeaderCellDef>№</th>-->
+<!--          <td mat-cell *matCellDef="let element">{{ element.id }}</td>-->
+<!--        </ng-container>-->
+
+<!--        &lt;!&ndash; Country Column &ndash;&gt;-->
+<!--        <ng-container matColumnDef="country">-->
+<!--          <th mat-header-cell *matHeaderCellDef>Държава</th>-->
+<!--          <td mat-cell *matCellDef="let element">{{ element.country || '' }}</td>-->
+<!--        </ng-container>-->
+
+<!--        &lt;!&ndash; Capital Column &ndash;&gt;-->
+<!--        <ng-container matColumnDef="capital">-->
+<!--          <th mat-header-cell *matHeaderCellDef>Столица</th>-->
+<!--          <td mat-cell *matCellDef="let element">{{ element.capital || '' }}</td>-->
+<!--        </ng-container>-->
+
+<!--        &lt;!&ndash; Continent Column &ndash;&gt;-->
+<!--        <ng-container matColumnDef="continent">-->
+<!--          <th mat-header-cell *matHeaderCellDef>Континент</th>-->
+<!--          <td mat-cell *matCellDef="let element">{{ element.continent || '' }}</td>-->
+<!--        </ng-container>-->
+
+<!--        <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>-->
+<!--        <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>-->
+<!--      </table>-->
+<!--    </nb-card-body>-->
+<!--  </nb-card-body>-->
+<!--</nb-card>-->
 <nb-card>
   <nb-card-header>Напиши всички държави</nb-card-header>
   <nb-card-body>
@@ -10,8 +62,11 @@
       <button nbButton status="primary" (click)="addCountry()">Добави</button>
     </div>
 
-    <!-- Error Message -->
+    <!-- Error Messages -->
     <span *ngIf="countryNotFound" class="not-found">Няма такава държава!</span>
+    <span *ngIf="countryAlreadyAdded" class="duplicate">
+      {{ countryAlreadyAdded }} вече е добавена!
+    </span>
 
     <!-- Entered Countries Counter -->
     <span class="enteredCountries">ВЪВЕДЕНИ ДЪРЖАВИ: {{ enteredCountriesCount }}/{{ totalCountries }}</span>

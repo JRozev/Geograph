@@ -19,3 +19,12 @@
   display: flex;
   justify-content: center;
 }
+
+.duplicate {
+  color: red;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 5px;
+}
