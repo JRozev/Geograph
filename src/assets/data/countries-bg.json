@@ -4,1378 +4,1575 @@
     "country": "Австралия",
     "capital": "Канбера",
     "continent": "Австралия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "au"
   },
   {
     "id": "2",
     "country": "Австрия",
     "capital": "Виена",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "at"
   },
   {
     "id": "3",
     "country": "Азербайджан",
     "capital": "Баку",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "az"
   },
   {
     "id": "4",
     "country": "Албания",
     "capital": "Тирана",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "al"
   },
   {
     "id": "5",
     "country": "Алжир",
     "capital": "Алжир",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "dz"
   },
   {
     "id": "6",
     "country": "Ангола",
     "capital": "Луанда",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ao"
   },
   {
     "id": "7",
     "country": "Андора",
     "capital": "Андора ла Веля",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ad"
   },
   {
     "id": "8",
     "country": "Антигуа и Барбуда",
     "capital": "Свети Йоан",
     "continent": "Северна Америка",
-    "alternatives": ["Антигуа"]
+    "alternatives": ["Антигуа"],
+    "isoCode": "ag"
   },
   {
     "id": "9",
     "country": "Аржентина",
     "capital": "Буенос Айрес",
     "continent": "Южна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ar"
   },
   {
     "id": "10",
     "country": "Армения",
     "capital": "Ереван",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "am"
   },
   {
     "id": "11",
     "country": "Афганистан",
     "capital": "Кабул",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "af"
   },
   {
     "id": "12",
     "country": "Бангладеш",
     "capital": "Дака",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "bd"
   },
   {
     "id": "13",
     "country": "Барбадос",
     "capital": "Бриджтаун",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "bb"
   },
   {
     "id": "14",
     "country": "Бахамите",
     "capital": "Насау",
     "continent": "Северна Америка",
-    "alternatives": ["Бахами", "Бахамски острови"]
+    "alternatives": ["Бахами", "Бахамски острови"],
+    "isoCode": "bs"
   },
   {
     "id": "15",
     "country": "Бахрейн",
     "capital": "Манама",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "bh"
   },
   {
     "id": "16",
     "country": "Беларус",
     "capital": "Минск",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "by"
   },
   {
     "id": "17",
     "country": "Белгия",
     "capital": "Брюксел",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "be"
   },
   {
     "id": "18",
     "country": "Белиз",
     "capital": "Белмопан",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "bz"
   },
   {
     "id": "19",
     "country": "Бенин",
     "capital": "Порто-Ново",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "bj"
   },
   {
     "id": "20",
     "country": "Боливия",
     "capital": "Ла Пас",
     "continent": "Южна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "bo"
   },
   {
     "id": "21",
     "country": "Босна и Херцеговина",
     "capital": "Сараево",
     "continent": "Европа",
-    "alternatives": ["Босна"]
+    "alternatives": ["Босна"],
+    "isoCode": "ba"
   },
   {
     "id": "22",
     "country": "Ботсвана",
     "capital": "Габороне",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "bw"
   },
   {
     "id": "23",
     "country": "Бразилия",
     "capital": "Бразилия",
     "continent": "Южна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "br"
   },
   {
     "id": "24",
     "country": "Бруней",
     "capital": "Бандар Сери Бегаван",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "bn"
   },
   {
     "id": "25",
     "country": "Буркина Фасо",
     "capital": "Уагадугу",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "bf"
   },
   {
     "id": "26",
     "country": "Бурунди",
     "capital": "Гитега",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "bi"
   },
   {
     "id": "27",
     "country": "Бутан",
     "capital": "Тхимпху",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "bt"
   },
   {
     "id": "28",
     "country": "България",
     "capital": "София",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "bg"
   },
   {
     "id": "29",
     "country": "Вануату",
     "capital": "Порт Вила",
     "continent": "Австралия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "vu"
   },
   {
     "id": "30",
     "country": "Ватикана",
     "capital": "град Ватикана",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "va"
   },
   {
     "id": "31",
     "country": "Великобритания",
     "capital": "Лондон",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "gb"
   },
   {
     "id": "32",
     "country": "Венецуела",
     "capital": "Каракас",
     "continent": "Южна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ve"
   },
   {
     "id": "33",
     "country": "Виетнам",
     "capital": "Ханой",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "vn"
   },
   {
     "id": "34",
     "country": "Габон",
     "capital": "Либревил",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ga"
   },
   {
     "id": "35",
     "country": "Гамбия",
     "capital": "Банджул",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "gm"
   },
   {
     "id": "36",
     "country": "Гана",
     "capital": "Акра",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "gh"
   },
   {
     "id": "37",
     "country": "Гватемала",
     "capital": "Гватемала Сити",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "gt"
   },
   {
     "id": "38",
     "country": "Гвиана",
     "capital": "Джорджтаун",
     "continent": "Южна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "gy"
   },
   {
     "id": "39",
     "country": "Гвинея",
     "capital": "Конакри",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "gn"
   },
   {
     "id": "40",
     "country": "Гвинея-Бисау",
     "capital": "Бисау",
     "continent": "Африка",
-    "alternatives": ["Гвинея Бисау"]
+    "alternatives": ["Гвинея Бисау"],
+    "isoCode": "gw"
   },
   {
     "id": "41",
     "country": "Германия",
     "capital": "Берлин",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "de"
   },
   {
     "id": "42",
     "country": "Гренада",
     "capital": "Свети Георги",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "gd"
   },
   {
     "id": "43",
     "country": "Грузия",
     "capital": "Тбилиси",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ge"
   },
   {
     "id": "44",
     "country": "Гърция",
     "capital": "Атина",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "gr"
   },
   {
     "id": "45",
     "country": "ДР Конго",
     "capital": "Киншаса",
     "continent": "Африка",
-    "alternatives": ["Конго ДР", "др", "Конго,др"]
+    "alternatives": ["Конго ДР", "др", "Конго,др"],
+    "isoCode": "cd"
   },
   {
     "id": "46",
     "country": "Дания",
     "capital": "Копенхаген",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "dk"
   },
   {
     "id": "47",
     "country": "Джибути",
     "capital": "Джибути",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "dj"
   },
   {
     "id": "48",
     "country": "Доминика",
     "capital": "Розо",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "dm"
   },
   {
     "id": "49",
     "country": "Доминиканска република",
     "capital": "Санто Доминго",
     "continent": "Северна Америка",
-    "alternatives": ["Доминикана"]
+    "alternatives": ["Доминикана"],
+    "isoCode": "do"
   },
   {
     "id": "50",
     "country": "Египет",
     "capital": "Кайро",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "eg"
   },
   {
     "id": "51",
     "country": "Еквадор",
     "capital": "Кито",
     "continent": "Южна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ec"
   },
   {
     "id": "52",
     "country": "Екваториална Гвинея",
     "capital": "Малабо",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "gq"
   },
   {
     "id": "53",
     "country": "Ел Салвадор",
     "capital": "Сан Салвадор",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "sv"
   },
   {
     "id": "54",
     "country": "Еритрея",
     "capital": "Асмара",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "er"
   },
   {
     "id": "55",
     "country": "Есватини",
     "capital": "Мбабане",
     "continent": "Африка",
-    "alternatives": ["Свазиленд"]
+    "alternatives": ["Свазиленд"],
+    "isoCode": "sz"
   },
   {
     "id": "56",
     "country": "Естония",
     "capital": "Талин",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ee"
   },
   {
     "id": "57",
     "country": "Етиопия",
     "capital": "Адис Абеба",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "et"
   },
   {
     "id": "58",
     "country": "Замбия",
     "capital": "Лусака",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "zm"
   },
   {
     "id": "59",
     "country": "Зимбабве",
     "capital": "Хараре",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "zw"
   },
   {
     "id": "60",
     "country": "Израел",
     "capital": "Йерусалим",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "il"
   },
   {
     "id": "61",
     "country": "Източен Тимор",
     "capital": "Дили",
     "continent": "Азия",
-    "alternatives": ["Тимор Лесте"]
+    "alternatives": ["Тимор Лесте"],
+    "isoCode": "tl"
   },
   {
     "id": "62",
     "country": "Индия",
     "capital": "Ню Делхи",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "in"
   },
   {
     "id": "63",
     "country": "Индонезия",
     "capital": "Джакарта",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "id"
   },
   {
     "id": "64",
     "country": "Ирак",
     "capital": "Багдад",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "iq"
   },
   {
     "id": "65",
     "country": "Иран",
     "capital": "Техеран",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ir"
   },
   {
     "id": "66",
     "country": "Ирландия",
     "capital": "Дъблин",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ie"
   },
   {
     "id": "67",
     "country": "Исландия",
     "capital": "Рейкявик",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "is"
   },
   {
     "id": "68",
     "country": "Испания",
     "capital": "Мадрид",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "es"
   },
   {
     "id": "69",
     "country": "Италия",
     "capital": "Рим",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "it"
   },
   {
     "id": "70",
     "country": "Йемен",
     "capital": "Сана",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ye"
   },
   {
     "id": "71",
     "country": "Йордания",
     "capital": "Аман",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "jo"
   },
   {
     "id": "72",
     "country": "Кабо Верде",
     "capital": "Прая",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "cv"
   },
   {
     "id": "73",
     "country": "Казахстан",
     "capital": "Нур-Султан",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "kz"
   },
   {
     "id": "74",
     "country": "Камбоджа",
     "capital": "Пном Пен",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "kh"
   },
   {
     "id": "75",
     "country": "Камерун",
     "capital": "Яундй",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "cm"
   },
   {
     "id": "76",
     "country": "Канада",
     "capital": "Отава",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ca"
   },
   {
     "id": "77",
     "country": "Катар",
     "capital": "Доха",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "qa"
   },
   {
     "id": "78",
     "country": "Кения",
     "capital": "Найроби",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ke"
   },
   {
     "id": "79",
     "country": "Кипър",
     "capital": "Никозия",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "cy"
   },
   {
     "id": "80",
     "country": "Киргизстан",
     "capital": "Бишкек",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "kg"
   },
   {
     "id": "81",
     "country": "Кирибати",
     "capital": "Южна Тарава",
     "continent": "Австралия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ki"
   },
   {
     "id": "82",
     "country": "Китай",
     "capital": "Пекин",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "cn"
   },
   {
     "id": "83",
     "country": "Колумбия",
     "capital": "Боготб",
     "continent": "Южна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "co"
   },
   {
     "id": "84",
     "country": "Коморски острови",
     "capital": "Мороний",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "km"
   },
   {
     "id": "85",
     "country": "Конго",
     "capital": "Бразавил",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "cg"
   },
   {
     "id": "86",
     "country": "Косово",
     "capital": "Прищина",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "xk"
   },
   {
     "id": "87",
     "country": "Коста Рика",
     "capital": "Сан Хосе",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "cr"
   },
   {
     "id": "88",
     "country": "Кот д'Ивоар",
     "capital": "Ямусукро",
     "continent": "Африка",
-    "alternatives": ["Кот д Ивоар"]
+    "alternatives": ["Кот д Ивоар"],
+    "isoCode": "ci"
   },
   {
     "id": "89",
     "country": "Куба",
     "capital": "Хавана",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "cu"
   },
   {
     "id": "90",
     "country": "Кувейт",
     "capital": "град Кувейт",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "kw"
   },
   {
     "id": "91",
     "country": "Лаос",
     "capital": "Виентян",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "la"
   },
   {
     "id": "92",
     "country": "Латвия",
     "capital": "Рига",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "lv"
   },
   {
     "id": "93",
     "country": "Лесото",
     "capital": "Масеру",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ls"
   },
   {
     "id": "94",
     "country": "Либерия",
     "capital": "Монровия",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "lr"
   },
   {
     "id": "95",
     "country": "Либия",
     "capital": "Триполи",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ly"
   },
   {
     "id": "96",
     "country": "Ливан",
     "capital": "Бейрут",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "lb"
   },
   {
     "id": "97",
     "country": "Литва",
     "capital": "Вилнюс",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "lt"
   },
   {
     "id": "98",
     "country": "Лихтенщайн",
     "capital": "Вадуц",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "li"
   },
   {
     "id": "99",
     "country": "Люксембург",
     "capital": "Град Люксембург",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "lu"
   },
   {
     "id": "100",
     "country": "Мавритания",
     "capital": "Нуакшот",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "mr"
   },
   {
     "id": "101",
     "country": "Мавриций",
     "capital": "Порт Луис",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "mu"
   },
   {
     "id": "102",
     "country": "Мадагаскар",
     "capital": "Антананариво",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "mg"
   },
   {
     "id": "103",
     "country": "Малави",
     "capital": "Лилонгве",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "mw"
   },
   {
     "id": "104",
     "country": "Малайзия",
     "capital": "Куала Лумпур",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "my"
   },
   {
     "id": "105",
     "country": "Малдивите",
-    "capital": "мъжки",
+    "capital": "Мале",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "mv"
   },
   {
     "id": "106",
     "country": "Мали",
     "capital": "Бамако",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ml"
   },
   {
     "id": "107",
     "country": "Малта",
     "capital": "Валета",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "mt"
   },
   {
     "id": "108",
     "country": "Мароко",
     "capital": "Рабат",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ma"
   },
   {
     "id": "109",
     "country": "Маршалови острови",
     "capital": "Маджуро",
     "continent": "Австралия",
-    "alternatives": ["Маршали"]
+    "alternatives": ["Маршали"],
+    "isoCode": "mh"
   },
   {
     "id": "110",
     "country": "Мексико",
     "capital": "Мексико сити",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "mx"
   },
   {
     "id": "111",
     "country": "Мианмар",
     "capital": "Найпидо",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "mm"
   },
   {
     "id": "112",
     "country": "Микронезия",
     "capital": "Паликир",
     "continent": "Австралия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "fm"
   },
   {
     "id": "113",
     "country": "Мозамбик",
     "capital": "Мапуто",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "mz"
   },
   {
     "id": "114",
     "country": "Молдова",
     "capital": "Кишинев",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "md"
   },
   {
     "id": "115",
     "country": "Монако",
     "capital": "Монако",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "mc"
   },
   {
     "id": "116",
     "country": "Монголия",
     "capital": "Улан Батор",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "mn"
   },
   {
     "id": "117",
     "country": "Намибия",
     "capital": "Уиндхук",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "na"
   },
   {
     "id": "118",
     "country": "Науру",
     "capital": "Област Ярен",
     "continent": "Австралия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "nr"
   },
   {
     "id": "119",
     "country": "Непал",
     "capital": "Катманду",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "np"
   },
   {
     "id": "120",
     "country": "Нигер",
     "capital": "Ниамей",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ne"
   },
   {
     "id": "121",
     "country": "Нигерия",
     "capital": "Абуджа",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ng"
   },
   {
     "id": "122",
     "country": "Нидерландия",
     "capital": "Амстердам",
     "continent": "Европа",
-    "alternatives": ["Холандия"]
+    "alternatives": ["Холандия"],
+    "isoCode": "nl"
   },
   {
     "id": "123",
     "country": "Никарагуа",
     "capital": "Манагуа",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ni"
   },
   {
     "id": "124",
     "country": "Нова Зеландия",
     "capital": "Уелингтън",
     "continent": "Австралия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "nz"
   },
   {
     "id": "125",
     "country": "Норвегия",
     "capital": "Осло",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "no"
   },
   {
     "id": "126",
     "country": "Обединени арабски емирства",
     "capital": "Абу Даби",
     "continent": "Азия",
-    "alternatives": ["ОАЕ", "оае"]
+    "alternatives": ["ОАЕ", "оае"],
+    "isoCode": "ae"
   },
   {
     "id": "127",
     "country": "Оман",
     "capital": "Мускат",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "om"
   },
   {
     "id": "128",
     "country": "Пакистан",
     "capital": "Исламабад",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "pk"
   },
   {
     "id": "129",
     "country": "Палау",
     "capital": "Нгерулмуд",
     "continent": "Австралия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "pw"
   },
   {
     "id": "130",
     "country": "Палестина",
     "capital": "Рамала",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ps"
   },
   {
     "id": "131",
     "country": "Панама",
     "capital": "град Панама",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "pa"
   },
   {
     "id": "132",
     "country": "Папуа Нова Гвинея",
     "capital": "Порт Морсби",
     "continent": "Австралия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "pg"
   },
   {
     "id": "133",
     "country": "Парагвай",
     "capital": "Асунсьон",
     "continent": "Южна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "py"
   },
   {
     "id": "134",
     "country": "Перу",
     "capital": "Лима",
     "continent": "Южна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "pe"
   },
   {
     "id": "135",
     "country": "Полша",
     "capital": "Варшава",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "pl"
   },
   {
     "id": "136",
     "country": "Португалия",
     "capital": "Лисабон",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "pt"
   },
   {
     "id": "137",
     "country": "Руанда",
     "capital": "Кигали",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "rw"
   },
   {
     "id": "138",
     "country": "Румъния",
     "capital": "Букурещ",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ro"
   },
   {
     "id": "139",
     "country": "Русия",
     "capital": "Москва",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ru"
   },
   {
     "id": "140",
     "country": "САЩ",
     "capital": "Вашингтон",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "us"
   },
   {
     "id": "141",
     "country": "Самоа",
     "capital": "Апия",
     "continent": "Австралия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ws"
   },
   {
     "id": "142",
     "country": "Сан Марино",
     "capital": "Сан Марино",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "sm"
   },
   {
     "id": "143",
     "country": "Сао Томе и Принсипи",
     "capital": "Сао Томе",
     "continent": "Африка",
-    "alternatives": ["Сао Томе"]
+    "alternatives": ["Сао Томе"],
+    "isoCode": "st"
   },
   {
     "id": "144",
     "country": "Саудитска Арабия",
     "capital": "Рияд",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "sa"
   },
   {
     "id": "145",
     "country": "Северна Корея",
     "capital": "Пхенян",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "kp"
   },
   {
     "id": "146",
     "country": "Северна Македония",
     "capital": "Скопие",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "mk"
   },
   {
     "id": "147",
     "country": "Сейнт Винсент и Гренадини",
     "capital": "Кингстаун",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "vc"
   },
   {
     "id": "148",
     "country": "Сейнт Китс и Невис",
     "capital": "Бастер",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "kn"
   },
   {
     "id": "149",
     "country": "Сейнт Лусия",
     "capital": "Кастри",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "lc"
   },
   {
     "id": "150",
     "country": "Сейшели",
     "capital": "Виктория",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "sc"
   },
   {
     "id": "151",
     "country": "Сенегал",
     "capital": "Дакар",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "sn"
   },
   {
     "id": "152",
     "country": "Сиера Леоне",
     "capital": "Фрийтаун",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "sl"
   },
   {
     "id": "153",
     "country": "Сингапур",
     "capital": "Сингапур",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "sg"
   },
   {
     "id": "154",
     "country": "Сирия",
     "capital": "Дамаск",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "sy"
   },
   {
     "id": "155",
     "country": "Словакия",
     "capital": "Братислава",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "sk"
   },
   {
     "id": "156",
     "country": "Словения",
     "capital": "Любляна",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "si"
   },
   {
     "id": "157",
     "country": "Соломонови острови",
     "capital": "Хониара",
     "continent": "Австралия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "sb"
   },
   {
     "id": "158",
     "country": "Сомалия",
     "capital": "Могадишу",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "so"
   },
   {
     "id": "159",
     "country": "Судан",
     "capital": "Хартум",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "sd"
   },
   {
     "id": "160",
     "country": "Суринам",
     "capital": "Парамарибо",
     "continent": "Южна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "sr"
   },
   {
     "id": "161",
     "country": "Сърбия",
     "capital": "Белград",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "rs"
   },
   {
     "id": "162",
     "country": "Таджикистан",
     "capital": "Душанбе",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "tj"
   },
   {
     "id": "163",
     "country": "Тайван",
     "capital": "Тайпе",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "tw"
   },
   {
     "id": "164",
     "country": "Тайланд",
     "capital": "Банкок",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "th"
   },
   {
     "id": "165",
     "country": "Танзания",
     "capital": "Додома",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "tz"
   },
   {
     "id": "166",
     "country": "Того",
     "capital": "Ломй",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "tg"
   },
   {
     "id": "167",
     "country": "Тонга",
     "capital": "Нукуалофа",
     "continent": "Австралия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "to"
   },
   {
     "id": "168",
     "country": "Тринидад и Тобаго",
     "capital": "Порт ъф Спейн",
     "continent": "Северна Америка",
-    "alternatives": ["Тринидад"]
+    "alternatives": ["Тринидад"],
+    "isoCode": "tt"
   },
   {
     "id": "169",
     "country": "Тувалу",
     "capital": "Фунафути",
     "continent": "Австралия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "tv"
   },
   {
     "id": "170",
     "country": "Тунис",
     "capital": "Тунис",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "tn"
   },
   {
     "id": "171",
     "country": "Туркменистан",
     "capital": "Ашхабад",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "tm"
   },
   {
     "id": "172",
     "country": "Турция",
     "capital": "Анкара",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "tr"
   },
   {
     "id": "173",
     "country": "Уганда",
     "capital": "Кампала",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ug"
   },
   {
     "id": "174",
     "country": "Узбекистан",
     "capital": "Ташкент",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "uz"
   },
   {
     "id": "175",
     "country": "Украйна",
     "capital": "Киев",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ua"
   },
   {
     "id": "176",
     "country": "Унгария",
     "capital": "Будапеща",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "hu"
   },
   {
     "id": "177",
     "country": "Уругвай",
     "capital": "Монтевидео",
     "continent": "Южна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "uy"
   },
   {
     "id": "178",
     "country": "Фиджи",
     "capital": "Сува",
     "continent": "Австралия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "fj"
   },
   {
     "id": "179",
     "country": "Филипините",
     "capital": "Манила",
     "continent": "Азия",
-    "alternatives": ["Филипини"]
+    "alternatives": ["Филипини"],
+    "isoCode": "ph"
   },
   {
     "id": "180",
     "country": "Финландия",
     "capital": "Хелзинки",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "fi"
   },
   {
     "id": "181",
     "country": "Франция",
     "capital": "Париж",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "fr"
   },
   {
     "id": "182",
     "country": "Хаити",
     "capital": "Порт-о-Пренс",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ht"
   },
   {
     "id": "183",
     "country": "Хондурас",
     "capital": "Тегусигалпа",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "hn"
   },
   {
     "id": "184",
     "country": "Хърватия",
     "capital": "Загреб",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "hr"
   },
   {
     "id": "185",
     "country": "Централноафриканска република",
     "capital": "Банги",
     "continent": "Африка",
-    "alternatives": ["ЦАР", "цар"]
+    "alternatives": ["ЦАР", "цар"],
+    "isoCode": "cf"
   },
   {
     "id": "186",
     "country": "Чад",
     "capital": "Нджамена",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "td"
   },
   {
     "id": "187",
     "country": "Черна гора",
     "capital": "Подгорица",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "me"
   },
   {
     "id": "188",
     "country": "Чехия",
     "capital": "Прага",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "cz"
   },
   {
     "id": "189",
     "country": "Чили",
     "capital": "Сантяго",
     "continent": "Южна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "cl"
   },
   {
     "id": "190",
     "country": "Швейцария",
     "capital": "Берн",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ch"
   },
   {
     "id": "191",
     "country": "Швеция",
     "capital": "Стокхолм",
     "continent": "Европа",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "se"
   },
   {
     "id": "192",
     "country": "Шри Ланка",
     "capital": "Шри Джаяварденепура Коте",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "lk"
   },
   {
     "id": "193",
     "country": "Южен Судан",
     "capital": "Джуба",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "ss"
   },
   {
     "id": "194",
     "country": "Южна Африка",
     "capital": "Кейптаун",
     "continent": "Африка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "za"
   },
   {
     "id": "195",
     "country": "Южна Корея",
     "capital": "Сеул",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "kr"
   },
   {
     "id": "196",
     "country": "Ямайка",
     "capital": "Кингстън",
     "continent": "Северна Америка",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "jm"
   },
   {
     "id": "197",
     "country": "Япония",
     "capital": "Токио",
     "continent": "Азия",
-    "alternatives": []
+    "alternatives": [],
+    "isoCode": "jp"
   }
 ]

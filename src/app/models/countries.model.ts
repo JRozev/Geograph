@@ -5,4 +5,5 @@ export interface Country {
   continent: string;
   number?: number; // Add the 'number' property as optional
   alternatives?: string[];
+  isoCode: string //FLAG
 }

@@ -37,7 +37,15 @@
         <!-- Country Column -->
         <ng-container matColumnDef="country">
           <th mat-header-cell *matHeaderCellDef>Държава</th>
-          <td mat-cell *matCellDef="let element">{{ element.country || '' }}</td>
+          <td mat-cell *matCellDef="let element">
+            <img
+              *ngIf="element.isoCode"
+              [src]="getFlagUrl(element.isoCode)"
+              alt="{{ element.country }}"
+              class="country-flag"
+            />
+            {{ element.country || '' }}
+          </td>
         </ng-container>
 
         <!-- Capital Column -->

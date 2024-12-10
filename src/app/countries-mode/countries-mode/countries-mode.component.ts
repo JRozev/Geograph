@@ -30,6 +30,7 @@ export class CountriesModeComponent implements OnInit {
       // Initialize table with all 195 rows based on countries-en.json
       const initialData: Country[] = Array.from({ length: this.totalCountries }, (_, i) => ({
         id: i + 1,
+        isoCode: '',
         country: '',
         capital: '',
         continent: '',
@@ -112,6 +113,7 @@ export class CountriesModeComponent implements OnInit {
         // Update the corresponding row in the table
         tableData[rowIndex] = {
           id: matchedCountry.id,
+          isoCode: matchedCountry.isoCode, // Ensure isoCode is passed here
           country: matchedCountry.country,
           capital: matchedCountry.capital,
           continent: matchedCountry.continent
@@ -135,5 +137,11 @@ export class CountriesModeComponent implements OnInit {
 
     this.currentInput = ''; // Clear input field
   }
+
+
+  getFlagUrl(isoCode: string): string {
+    return `https://flagcdn.com/w320/${isoCode.toLowerCase()}.png`;
+  }
+
 
 }
